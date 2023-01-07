@@ -192,3 +192,27 @@
     width:1375px;
     
 }
+.qqq{
+    display: flex;
+    
+}
+.ppp{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    text-align: left;
+    margin-left: 150px;
+    margin-right: 100px;
+
+}
+.uuu{
+    margin-bottom: 40px;
+    margin-left: 150px;
+    text-align: left;
+    margin-right: 100px;
+}
+.bbb{
+   
+    margin-bottom: 20px;
+    text-align: center;
+
+}
